@@ -1,6 +1,6 @@
 modem-cmd (Python)
 ==================
-.. image:: https://pypip.in/version/modem-cmd/badge.svg
+.. image:: https://img.shields.io/pypi/v/modem-cmd.svg
     :target: https://pypi.python.org/pypi/modem-cmd/
     :alt: Latest Version
 
